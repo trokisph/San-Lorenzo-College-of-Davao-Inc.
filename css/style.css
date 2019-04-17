@@ -54,6 +54,9 @@ img{
     transition: all 0.3s ease-out 0s;
 	height:auto;
 }
+img.width100{
+    width: 100%;
+}
 h1, h2, h3, h4, h5, h6 {font-weight: 700; margin: 0; padding: 0}
 a{
     -webkit-transition: all 0.3s ease-out 0s;
@@ -2856,4 +2859,7 @@ textarea {
     background-color: #EC1C23;
     border: 1px solid #EC1C23;
     color: #fff;
+}
+.bottom-margin {
+    margin-bottom: 20px;
 }
